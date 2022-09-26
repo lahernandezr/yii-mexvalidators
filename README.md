@@ -1,6 +1,6 @@
 # Yii Mexico Data Validators (yii-mexvalidators)
 
-Validators for two data strings used in Mexico for identity, RFC and CURP, for use with the [Yii 2.0.* framework][1].
+Validators for two data strings used in Mexico for identity, RFC CURP and IMSS, for use with the [Yii 2.0.* framework][1].
 
 ## Installation
 
