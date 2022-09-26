@@ -24,6 +24,7 @@ public function rules()
     return [
        ['rfc', 'vendor.ktaris.yii-mexvalidators.rfcValidator'],
        ['curp', 'vendor.ktaris.yii-mexvalidators.curpValidator'],
+       ['imss', 'vendor.ktaris.yii-mexvalidators.imssValidator'],
     ];
 }
 ```
